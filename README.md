@@ -5,3 +5,6 @@
 <p align="center">
   Controle suas depesas de forma descomplicada 💰    
 </p>
+
+<br>
+<img src="https://github.com/phanetcrz/money-web/blob/master/src/assets/banner-telas.png">
