@@ -1,0 +1,23 @@
+
+
+.sidebar{
+    background-color: var(--color-blue);
+    height: 100%;   
+    width: 50px;
+    position: fixed;
+    z-index: 1; /*posiciona na frente de todos*/
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+
+/* todo mundo que estiver no sidebar que for um link*/
+.sidebar a{
+    padding-top: 20px;
+    display: block;
+}
+
+.sidebar a:hover{
+    opacity: 0.5;
+}
